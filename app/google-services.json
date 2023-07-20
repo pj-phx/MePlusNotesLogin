@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283226166458",
+    "project_id": "meplus-notespro",
+    "storage_bucket": "meplus-notespro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283226166458:android:77800b5d4e78f088519e83",
+        "android_client_info": {
+          "package_name": "com.example.meplusnotespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283226166458-msc2honirub4e8rhlmgs5a62312na2q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwwC9bVjvQwCNxELj5NuByyCmzSwMD-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283226166458-msc2honirub4e8rhlmgs5a62312na2q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
